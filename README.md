@@ -1,1 +1,1 @@
-# Basic-Blog-Website
+# Basic-Blog-Website Using HTML, CSS and JS
